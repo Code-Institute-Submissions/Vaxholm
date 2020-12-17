@@ -26,5 +26,9 @@ body {
 
 .vax-act-nav {
    border-color: #ffffff;
-    border-bottom: 3px solid;
+    border-bottom: 8px solid;
+}
+
+.vax-list-item {
+    padding-right: 30px;
 }
