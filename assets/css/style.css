@@ -44,6 +44,8 @@ body {
 .ind-vax-jum {
     background: transparent;
     text-align: center;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: #ffffff;
 }
 
 .vax-jumbotron {
