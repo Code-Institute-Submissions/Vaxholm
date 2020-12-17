@@ -41,7 +41,9 @@ body {
 
 /*jumbotron*/
 
-
+.ind-vax-jum {
+    background: transparent;
+}
 
 /*footer*/
 
