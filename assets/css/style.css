@@ -45,6 +45,12 @@ body {
     background: transparent;
 }
 
+.vax-jumbotron {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
 /*footer*/
 
 .vax-footer {
