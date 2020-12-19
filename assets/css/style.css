@@ -85,6 +85,11 @@ body {
     align-content: center;
 }
 
+.cont-vax-jumbo {
+    margin-top: 20px;
+    background-color: #597EAA;
+}
+
 /*footer*/
 
 .vax-footer {
