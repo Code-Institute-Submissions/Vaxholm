@@ -44,6 +44,11 @@ body {
     height: 75vh;
 }
 
+.vax-images {
+    width: 150px;
+    height: 150px;
+}
+
 /*jumbotron*/
 
 .ind-vax-jum {
