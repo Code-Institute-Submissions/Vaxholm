@@ -48,6 +48,11 @@ body {
     position: relative;
 }
 
+.gallery-vaxholm img:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
+
 /*images*/
 
 .index-vax-image {
