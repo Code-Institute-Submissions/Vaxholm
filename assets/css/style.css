@@ -40,6 +40,11 @@ body {
     padding-bottom: 40px;
 }
 
+.vax-button {
+    background-color: #ffffff;
+    color: #666666;
+}
+
 /*gallery*/
 
 .gallery-vaxholm {
