@@ -39,7 +39,10 @@ body {
     height: 75vh;
 }
 
-
+.activity-vax-image {
+    background: url('../images/activity/activity-image.png') no-repeat;
+    height: 75vh;
+}
 
 /*jumbotron*/
 
