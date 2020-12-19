@@ -40,6 +40,14 @@ body {
     padding-bottom: 40px;
 }
 
+/*gallery*/
+
+.gallery-vaxholm {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: relative;
+}
+
 /*images*/
 
 .index-vax-image {
