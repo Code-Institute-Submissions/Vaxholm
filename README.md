@@ -73,4 +73,7 @@ tourist and what more can be done. The third reaseon is to make people excited t
 - The navbar for the mobile version collapse and shows very much where on the site one is. 
 - The text Vaxholm is not to much on the mobile phone that make is not so much on the phone. 
 
-### 
+### Links 
+
+- Links have a underline to be able to see wich site one is. The links get lightblue when hovering over. 
+- The social links let people be able to go direct to the relevant social sites for Vaxholm. 
