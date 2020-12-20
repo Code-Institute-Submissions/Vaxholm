@@ -61,4 +61,5 @@ tourist and what more can be done. The third reaseon is to make people excited t
 - ### Wireframes
 
 - Wireframes was created using Balsamiq Wireframes, the layout and design did change during the process of the project and was updated. 
-- [Wireframes](assets/MileStone 1 project.pdf)
+- [Wireframes](https://github.com/KartexTiarc/Vaxholm/blob/master/assets/MileStone%201%20project.pdf)
+
