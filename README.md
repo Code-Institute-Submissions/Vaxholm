@@ -1,9 +1,9 @@
 
 <h1 align="center">Welcome to Vaxholm</h1>
 
-Link 1
+[Welcome to Vaxholm](https://kartextiarc.github.io/Vaxholm/)
 
-Link 2
+[GitHub](https://github.com/KartexTiarc/Vaxholm)
 
 
 ## About
@@ -77,3 +77,89 @@ tourist and what more can be done. The third reaseon is to make people excited t
 
 - Links have a underline to be able to see wich site one is. The links get lightblue when hovering over. 
 - The social links let people be able to go direct to the relevant social sites for Vaxholm. 
+
+### Images
+
+- Gallerys modal make it easier to see one specifik picture make it easier to see the picture. 
+- Smaller images in the content make a very good visiual for people to understand better what is written about.
+
+### Background-Images
+
+- The background images to show the beauty of the islands in Vaxholm and peek interrest. 
+
+### Footer 
+
+- Social links to offical site of Vaxholm city. 
+- Make it easy for getting the right side for one interrested. 
+- The bigger social links. 
+
+### The Pages
+
+- ### Home 
+- Page is to introduce about Vaxholm.
+- The first background image is showing Vaxholm city.
+- The information about what can do is short and good. 
+
+- ### Activity 
+- Another background image for show of the nature.
+- More specifik about the activites one can do in Vaxholm.
+- Still short for peeking the interest. 
+
+- ### Gallery
+- Show many different aspect of Vaxholm.
+- Not to many or to few to show what can give. 
+
+- ### Contact 
+- A form to make it easy for one take contact for anyone who get interrested.
+
+
+## Technologies used
+
+### Languages used
+
+- HTML5
+- CSS3 
+- Javascript (through bootstrap)
+
+### Frameworks and programs used
+
+- Bootstrap v5.0.0-beta1 - Used Javascript through Bootstrap and the navbar, footer header and the content using the grid system and media.
+- Git hub - For mine repositories and my code with my website site is located there. 
+- GitPod - The site I used for coding the entire site. 
+- Google Fonts - Used Google Fonts to import the font-family for my site. 
+- Font Awesome - The images used for social links was imported from Font Awesome. 
+- Balsamiq Wireframes - Balsamiq was used to do the Frameworks.
+
+## Testing
+
+### Functionality Testing
+
+- ### Navigation bar 
+- Testing with both mobile and desktop.
+- The Functionality worked very well both. 
+
+### CSS3 Validator 
+
+### HTML5 Validator
+
+### Compatibility Testing
+
+### Performance Testing
+
+### Testing User Stories
+
+## Deployment
+
+### Publishing
+
+## Known Bugs
+
+## Credits
+
+### Code
+
+### Content
+
+### Media 
+
+### Acknowledgements
