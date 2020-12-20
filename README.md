@@ -57,3 +57,8 @@ about the activites.
 
 - Images on this site serve three purposes. One is to emphasize the activites that one can do in Vaxholm. The other is to show what Vaxholm to offer to 
 tourist and what more can be done. The third reaseon is to make people excited to travel on the vacation to Vaxholm to explore and hopefully enjoy their stay there. 
+
+- ### Wireframes
+
+- Wireframes was created using Balsamiq Wireframes, the layout and design did change during the process of the project and was updated. 
+- [Wireframes](assets/MileStone 1 project.pdf)
