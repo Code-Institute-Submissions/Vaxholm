@@ -35,6 +35,8 @@ offer.
 * I want to be able to go to the website and show it to freinds and family.
 * Easily to navigate when I on the move to explore the activites and easily can contact if needed.
 
+### Design
 
+ - ### Colours 
 
 
