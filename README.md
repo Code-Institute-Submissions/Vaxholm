@@ -39,4 +39,11 @@ offer.
 
  - ### Colours 
 
+ - The colours was make it easy to read and be with. The page is mostly white for make it pronunce more of the content in it. 
+ Dim gray (#666666) was used for the text color to make it more easy for the eyes to read. Its also make it not so pronunce. 
+ The white (#ffffff) text for the jumbotron was used to catch the interest of the user to read more. The black (rgba(0, 0, 0, 0.3)) 
+ for the jumbotron background was just for making the white text to stand out and not be overtaken by the background image. 
+ The Air force blue (#597EAA) was used on the header and footer to connect that Vaxholm is close to the water and giving more of a warmth and 
+ pleaseant theme. 
+
 
