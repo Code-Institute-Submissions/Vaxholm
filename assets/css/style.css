@@ -48,7 +48,10 @@ body {
     color: #666666;
 }
 
-
+.vax-content p {
+    padding-left: 20px;
+    padding-right: 20px;
+}
 
 .vax-button {
     background-color: #ffffff;
