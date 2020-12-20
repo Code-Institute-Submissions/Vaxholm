@@ -47,3 +47,9 @@ offer.
  pleaseant theme. 
 
 
+- ### Typography
+
+- The first font that was used for the H classes and jumbo was Poppins for its style and not so decorated make it easy going feeling. 
+- The second font was Lato that was used for the paragraphs on the site. Its for making it simple to read so much as possible for getting the information one wants 
+about the activites. 
+
