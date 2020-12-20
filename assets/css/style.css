@@ -24,6 +24,10 @@ body {
     font-weight: 600;
 }
 
+.vax-navbar a:hover {
+    color: lightskyblue;
+}
+
 .vax-act-nav {
    border-color: #ffffff;
     border-bottom: 6px solid;
