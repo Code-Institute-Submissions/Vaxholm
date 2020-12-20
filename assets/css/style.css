@@ -116,6 +116,11 @@ body {
     margin-top: 20px;
     background-color: #597EAA;
     color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+}
+
+.cont-vax-jumbo h5 {
+    box-align: center;
 }
 
 
