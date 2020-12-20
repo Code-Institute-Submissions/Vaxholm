@@ -63,3 +63,14 @@ tourist and what more can be done. The third reaseon is to make people excited t
 - Wireframes was created using Balsamiq Wireframes, the layout and design did change during the process of the project and was updated. 
 - [Wireframes](https://github.com/KartexTiarc/Vaxholm/blob/master/assets/MileStone%201%20project.pdf)
 
+
+## Features
+
+### Header
+
+- The header shows in the left where you have come to. It is also a link to find ones way back.
+- The navbar to the right is easy to find and its shows wich site you are on when you look at the navbar.
+- The navbar for the mobile version collapse and shows very much where on the site one is. 
+- The text Vaxholm is not to much on the mobile phone that make is not so much on the phone. 
+
+### 
