@@ -53,3 +53,7 @@ offer.
 - The second font was Lato that was used for the paragraphs on the site. Its for making it simple to read so much as possible for getting the information one wants 
 about the activites. 
 
+- ### Imagery 
+
+- Images on this site serve three purposes. One is to emphasize the activites that one can do in Vaxholm. The other is to show what Vaxholm to offer to 
+tourist and what more can be done. The third reaseon is to make people excited to travel on the vacation to Vaxholm to explore and hopefully enjoy their stay there. 
