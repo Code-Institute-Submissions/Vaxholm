@@ -78,11 +78,13 @@ body {
 .index-vax-image {
     background: url('../images/Vaxholm.png') no-repeat;
     height: 75vh;
+    background-size: cover;
 }
 
 .activity-vax-image {
     background: url('../images/activity/activity-image.png') no-repeat;
     height: 75vh;
+     background-size: cover;
 }
 
 .vax-images {
