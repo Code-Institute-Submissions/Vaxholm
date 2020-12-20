@@ -76,7 +76,7 @@ body {
 /*images*/
 
 .index-vax-image {
-    background: url('../images/Vaxholm.png') no-repeat;
+    background: url('../images/cover-vax.png') no-repeat;
     height: 75vh;
     background-size: cover;
 }
