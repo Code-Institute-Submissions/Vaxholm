@@ -44,7 +44,11 @@ body {
     padding-left: 20px;
     padding-right: 20px;
     font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #666666;
 }
+
+
 
 .vax-button {
     background-color: #ffffff;
@@ -94,6 +98,7 @@ body {
     display: flex;
     justify-content: center;
     align-content: center;
+    font-family: 'Poppins', sans-serif;
 }
 
 .cont-vax-jumbo {
