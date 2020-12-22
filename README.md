@@ -140,26 +140,99 @@ tourist and what more can be done. The third reaseon is to make people excited t
 
 ### CSS3 Validator 
 
+- Passed
+
 ### HTML5 Validator
+
+- Home page - Pass
+- Acitivty page - Pass 
+- Gallery page - Pass
+- Contact page - Pass
 
 ### Compatibility Testing
 
+- Browser Compatibility 
+
+- Testing on Chrome mobile and desktop - Pass
+- Testing on safari mobile and desktop - Pass
+
 ### Performance Testing
 
-### Testing User Stories
+- Lighthouse Testing
+- Testing on desktop
+ <img src="./assets/images/Lighthouse/Lighthouse-test-desktop.png" width="30px">
+
+ - Test on mobile
+ <img src="./assets/images/Lighthouse/Lighthouse-test-mobile.png" width="30px">
+
+#### Testing User Stories
+
+ #### When I am planning for the summer vacation I want a place that is not so much people when this pandemic is over.
+
+* I want to easily understand the layout and finding what I seek without any instructions. 
+1. The first page introduce the user to what kind of page it is. 
+* I want to be able to navigate through the site easily to find its content.
+1. The content on the first page is easily understod and with a fixed header make it easy to navigate the site. 
+* I want to easily get information what kind of activites one can do. 
+1. The information is comprimise to make it easy to understand with very different activites. 
+* I want to be able to easily take contact with someone to get more information about the activites. 
+1. The header make it easy to take contact and give the ability to contact and ask what kind of activites one seeks. 
+
+#### As a visitor that wants to start planning a vacation that is different. 
+
+* I want to explore new environments that is not your usual vacation spot. 
+1. Vaxholm is not know so much about that makes it perfect vacation spot. 
+* I want to know what can be offered. 
+1. There is a lot of activites in Vaxholm to offer. If there is some queistions it can easily be asked. 
+* I want to be able go through the content and find something that I want to do. 
+1. The content on the site is not all that can offer and through the contact page one can asked what else can be offered. 
+
+#### As a visitor that want to use the website on the fly.
+
+* I want to be able to go to the website and show it to freinds and family.
+1. The site is adjusted to be seen on desktop and mobile. It is very user freindly on mobile devices. 
+* Easily to navigate when I on the move to explore the activites and easily can contact if needed.
+1. The mobile page make it very good to have on the move. 
 
 ## Deployment
 
 ### Publishing
 
+This site was publiched with [GitHub Pages](https://pages.github.com/). How to create a GitHub page is below. 
+
+1. Go to the GitHub website and create a log in. 
+2. On the left you will see your repositories (if you have created one), select the one you want to set up a page for. 
+3. Above the repositories you will see a menu. To the right you will find one that say "Settings". 
+4. Then go down to GitHub pages.
+5. Choose master as source and then you click save. 
+
 ## Known Bugs
 
-## Credits
+There are no known bugs at the moment. 
 
+## Credits
+ 
 ### Code
+
+- Bootstrap library was used to create the modal, responsive design, navbar, form, footer, header and image carousel elements. 
+- The code for the modal was created by [Diego Vogel](https://css-tricks.com/creating-a-modal-image-gallery-with-bootstrap-components/) on [CSS-Tricks](https://css-tricks.com/).
 
 ### Content
 
+- All the code was written by - Christoffer Nyh.
+- To get the right colour schemes Balsamiq Wireframes was used. 
+- The README file was formed after the Code Institute Sample Read. 
+
 ### Media 
 
+- Three pictures was used from [Unsplash](https://unsplash.com/)
+1. First picture of Kayaking in the sun was taken by [Pete Nowicki](https://unsplash.com/photos/8G_VvJrYKkE).
+2. Second picture of Hiking in the woods was taken by [Jake Melara](https://unsplash.com/photos/Yh6K2eTr_FY).
+3. Third picture of Camping was taken by [Esther Tuttle](https://unsplash.com/photos/dyjH3YMblpo).
+
+- The other picture was taken by the author of the code Christoffer Nyh.
+
 ### Acknowledgements
+
+- I saw the need for a english oriented site for Vaxholm to gain tourist in the future when pandemic is over.
+- Thanks to evryone that gave me advice and feedback about my page. 
