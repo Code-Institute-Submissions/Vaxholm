@@ -71,15 +71,14 @@ body {
     padding-bottom: 5%;
 }
 
+
+
 .gallery-vaxholm {
     position: relative;
     width: 100%;
     height: 300px;
     overflow: hidden;
-    padding-right: 0px;
-    padding-left: 0px;
-    border: 2px solid;
-    border-color: #597EAA;
+    border-radius: 20%;
 }
 
 .gallery-vaxholm img:hover {
@@ -87,18 +86,7 @@ body {
     cursor: pointer;
 }
 
-@media (max-width: 580px) {
-.gallery-vaxholm {
-    height: 200px;
-    width: 100%;
-}    
 
-.gal-sm-vax {
-    padding-top: 5%;
-    padding-bottom: 5%;
-}
-
-}
 
 
 /*images*/
@@ -165,4 +153,27 @@ body {
 
 .vax-footer a:hover {
     color: lightskyblue;
+}
+
+/*Mobile version*/
+
+@media (max-width: 580px) {
+
+/*gallery*/
+
+.gallery-vaxholm {
+    height: 200px;
+    width: 100%;
+}    
+
+.gal-sm-vax {
+   padding-top: 5%;
+   padding-bottom: 5%;
+}
+
+.vax-gal-con {
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
 }
