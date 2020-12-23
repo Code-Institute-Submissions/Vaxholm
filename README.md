@@ -1,6 +1,8 @@
 
 <h1 align="center">Welcome to Vaxholm</h1>
 
+<h2 align="center"><img src="assets/images/mockup.png>
+
 [Welcome to Vaxholm](https://kartextiarc.github.io/Vaxholm/)
 
 [GitHub](https://github.com/KartexTiarc/Vaxholm)
@@ -8,8 +10,8 @@
 
 ## About
 
-This is website created to people outside of Sweden to learn more of Vaxholm and come 
-and visit. When the pandemic is over this is the perfect place to exlpore new vacation spot 
+This is website created for people outside of Sweden to learn more about Vaxholm and come 
+and visit. When the pandemic is over this is the perfect place to exlpore a new vacation spot 
 in the summer. A more nature environment to exlpore and much to learn about Sweden and what it got to 
 offer. 
 
@@ -22,13 +24,13 @@ offer.
 * I want to easily understand the layout and finding what I seek without any instructions. 
 * I want to be able to navigate through the site easily to find its content. 
 * I want to easily get information what kind of activites one can do. 
-* I want to be able to easily take contact with someone to get more information about the activites. 
+ 
 
 ### As a visitor that wants to start planning a vacation that is different. 
 
 * I want to explore new environments that is not your usual vacation spot. 
-* I want what can be offered. 
 * I want to be able go through the content and find something that I want to do. 
+* I want to be able to easily take contact with someone to get more information about the activites. 
 
 ### As a visitor that want to use the website on the fly.
 
@@ -39,8 +41,8 @@ offer.
 
  - ### Colours 
 
- - The colours was make it easy to read and be with. The page is mostly white for make it pronunce more of the content in it. 
- Dim gray (#666666) was used for the text color to make it more easy for the eyes to read. Its also make it not so pronunce. 
+ - The colours was choosen for making it easy on the eyes. The page is mostly white to pronunce more of the content in it. 
+ Dim gray (#666666) was used for the text color to make it more easy for the eyes to read.
  The white (#ffffff) text for the jumbotron was used to catch the interest of the user to read more. The black (rgba(0, 0, 0, 0.3)) 
  for the jumbotron background was just for making the white text to stand out and not be overtaken by the background image. 
  The Air force blue (#597EAA) was used on the header and footer to connect that Vaxholm is close to the water and giving more of a warmth and 
@@ -52,11 +54,12 @@ offer.
 - The first font that was used for the H classes and jumbo was Poppins for its style and not so decorated make it easy going feeling. 
 - The second font was Lato that was used for the paragraphs on the site. Its for making it simple to read so much as possible for getting the information one wants 
 about the activites. 
+- Sans Serif was used as fallback. 
 
 - ### Imagery 
 
-- Images on this site serve three purposes. One is to emphasize the activites that one can do in Vaxholm. The other is to show what Vaxholm to offer to 
-tourist and what more can be done. The third reaseon is to make people excited to travel on the vacation to Vaxholm to explore and hopefully enjoy their stay there. 
+- Images on this site serve three purposes. One is to emphasize the activites that one can do in Vaxholm. Second is 
+to show the scenery there is Vaxholm. The third reaseon is to make people excited to travel on the vacation to Vaxholm to explore and hopefully enjoy their stay there. 
 
 - ### Wireframes
 
@@ -68,15 +71,14 @@ tourist and what more can be done. The third reaseon is to make people excited t
 
 ### Header
 
-- The header shows in the left where you have come to. It is also a link to find ones way back.
+- The header shows in the left corner says Vaxholm to show where the visitor have come to. The visitor able to click on Vaxholm to come back to the home page.
 - The navbar to the right is easy to find and its shows wich site you are on when you look at the navbar.
-- The navbar for the mobile version collapse and shows very much where on the site one is. 
-- The text Vaxholm is not to much on the mobile phone that make is not so much on the phone. 
+- The navbar for the mobile version collapse and shows very much where on the site one is.  
 
 ### Links 
 
-- Links have a underline to be able to see wich site one is. The links get lightblue when hovering over. 
-- The social links let people be able to go direct to the relevant social sites for Vaxholm. 
+- Links have a underline to be able to see wich site one is on. The links get lightblue when hovering over. 
+- The social links on the footer let people be able to go direct to the relevant social sites for Vaxholm. 
 
 ### Images
 
@@ -91,7 +93,6 @@ tourist and what more can be done. The third reaseon is to make people excited t
 
 - Social links to offical site of Vaxholm city. 
 - Make it easy for getting the right side for one interrested. 
-- The bigger social links. 
 
 ### The Pages
 
@@ -107,7 +108,7 @@ tourist and what more can be done. The third reaseon is to make people excited t
 
 - ### Gallery
 - Show many different aspect of Vaxholm.
-- Not to many or to few to show what can give. 
+- Not to many or to few to show what experience one can gain. 
 
 - ### Contact 
 - A form to make it easy for one take contact for anyone who get interrested.
@@ -119,7 +120,6 @@ tourist and what more can be done. The third reaseon is to make people excited t
 
 - HTML5
 - CSS3 
-- Javascript (through bootstrap)
 
 ### Frameworks and programs used
 
@@ -136,18 +136,18 @@ tourist and what more can be done. The third reaseon is to make people excited t
 
 - ### Navigation bar 
 - Testing with both mobile and desktop.
-- The Functionality worked very well both. 
+- The Functionality worked very well on both. 
 
 ### CSS3 Validator 
 
-- Passed
+- Passed- [Result] (https://jigsaw.w3.org/css-validator/validator)
 
 ### HTML5 Validator
 
-- Home page - Pass
-- Acitivty page - Pass 
-- Gallery page - Pass
-- Contact page - Pass
+- Home page - Pass - [Result] (https://validator.w3.org/nu/?doc=https%3A%2F%2Fkartextiarc.github.io%2FVaxholm%2Findex.html)
+- Acitivty page - Pass - [Result] (https://validator.w3.org/nu/?doc=https%3A%2F%2Fkartextiarc.github.io%2FVaxholm%2Factivity.html)
+- Gallery page - Pass - [Result] (https://validator.w3.org/nu/?doc=https%3A%2F%2Fkartextiarc.github.io%2FVaxholm%2Fgallery.html)
+- Contact page - Pass - [Result] (https://validator.w3.org/nu/?doc=https%3A%2F%2Fkartextiarc.github.io%2FVaxholm%2Fcontact.html)
 
 ### Compatibility Testing
 
@@ -160,43 +160,44 @@ tourist and what more can be done. The third reaseon is to make people excited t
 
 - Lighthouse Testing
 - Testing on desktop
- <img src="./assets/images/Lighthouse/Lighthouse-test-desktop.png" width="30px">
+ <img src="./assets/images/Lighthouse/Lighthouse-test-desktop.png" width="100%px" height="auto">
 
  - Test on mobile
- <img src="./assets/images/Lighthouse/Lighthouse-test-mobile.png" width="30px">
+ <img src="./assets/images/Lighthouse/Lighthouse-test-mobile.png" width="100%" height="auto">
 
 #### Testing User Stories
 
- #### When I am planning for the summer vacation I want a place that is not so much people when this pandemic is over.
+ - #### When I am planning for the summer vacation I want a place that is not so much people when this pandemic is over.
 
-* I want to easily understand the layout and finding what I seek without any instructions. 
-1. The first page introduce the user to what kind of page it is. 
-* I want to be able to navigate through the site easily to find its content.
-1. The content on the first page is easily understod and with a fixed header make it easy to navigate the site. 
+* I want to easily understand the layout and finding what I seek without any instructions.
+ 1. The first page introduce the user to what kind of page it is.
+* I want to be able to navigate through the site easily to find its content. 
+1. The content on the first page is easily understod and with a fixed header make it easy to navigate the site.
 * I want to easily get information what kind of activites one can do. 
 1. The information is comprimise to make it easy to understand with very different activites. 
-* I want to be able to easily take contact with someone to get more information about the activites. 
-1. The header make it easy to take contact and give the ability to contact and ask what kind of activites one seeks. 
+ 
 
-#### As a visitor that wants to start planning a vacation that is different. 
+- ### As a visitor that wants to start planning a vacation that is different. 
 
 * I want to explore new environments that is not your usual vacation spot. 
 1. Vaxholm is not know so much about that makes it perfect vacation spot. 
-* I want to know what can be offered. 
-1. There is a lot of activites in Vaxholm to offer. If there is some queistions it can easily be asked. 
 * I want to be able go through the content and find something that I want to do. 
-1. The content on the site is not all that can offer and through the contact page one can asked what else can be offered. 
+1. The content on the site is not all that can offer and through the contact page one can asked what else can be offered.
+* I want to be able to easily take contact with someone to get more information about the activites. 
+1. The contact site is very easy to understand and easy to take contact. 
 
-#### As a visitor that want to use the website on the fly.
+- #### As a visitor that want to use the website on the fly.
 
 * I want to be able to go to the website and show it to freinds and family.
-1. The site is adjusted to be seen on desktop and mobile. It is very user freindly on mobile devices. 
+1. The site is very to use on the mobile phone and tablet to make it easy to show and share with freinds and family.
 * Easily to navigate when I on the move to explore the activites and easily can contact if needed.
-1. The mobile page make it very good to have on the move. 
+1. It is easy to go on the site and get into contact with the user friendly form.
 
 ## Deployment
 
 ### Publishing
+
+### GitHub Pages
 
 This site was publiched with [GitHub Pages](https://pages.github.com/). How to create a GitHub page is below. 
 
@@ -205,6 +206,16 @@ This site was publiched with [GitHub Pages](https://pages.github.com/). How to c
 3. Above the repositories you will see a menu. To the right you will find one that say "Settings". 
 4. Then go down to GitHub pages.
 5. Choose master as source and then you click save. 
+6. Refresh the site and scroll back to GitHub pages and there is your link. 
+
+### Forking the GitHub Repository
+
+By forking the GitHub repository it will make a copy of the original repository on the GitHub 
+account to view and/or make changes without affecting the original.
+
+1. Log in to GitHub and locate the GitHub repository.
+2. At the top to the right of the page is the "Fork" Button.
+3. Press it and now it should copy the original repository to your GitHub account.
 
 ## Known Bugs
 
@@ -234,5 +245,6 @@ There are no known bugs at the moment.
 
 ### Acknowledgements
 
-- I saw the need for a english oriented site for Vaxholm to gain tourist in the future when pandemic is over.
+- Thanks for the tutors that helped with technical problems.  
 - Thanks to evryone that gave me advice and feedback about my page. 
+- Very much thanks to my Mentors for helping with this project. 
