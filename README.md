@@ -1,7 +1,7 @@
 
 <h1 align="center">Welcome to Vaxholm</h1>
 
-<h2 align="center"><img src="./assets/images/mockup.png>
+<h2 align="center"><img src="./assets/images/Lighthouse/mockup.png">
 
 [Welcome to Vaxholm](https://kartextiarc.github.io/Vaxholm/)
 
