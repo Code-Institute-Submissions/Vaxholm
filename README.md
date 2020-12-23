@@ -1,7 +1,7 @@
 
 <h1 align="center">Welcome to Vaxholm</h1>
 
-<h2 align="center"><img src="assets/images/mockup.png>
+<h2 align="center"><img src="./assets/images/mockup.png>
 
 [Welcome to Vaxholm](https://kartextiarc.github.io/Vaxholm/)
 
@@ -144,10 +144,10 @@ to show the scenery there is Vaxholm. The third reaseon is to make people excite
 
 ### HTML5 Validator
 
-- Home page - Pass - [Result] (https://validator.w3.org/nu/?doc=https%3A%2F%2Fkartextiarc.github.io%2FVaxholm%2Findex.html)
-- Acitivty page - Pass - [Result] (https://validator.w3.org/nu/?doc=https%3A%2F%2Fkartextiarc.github.io%2FVaxholm%2Factivity.html)
-- Gallery page - Pass - [Result] (https://validator.w3.org/nu/?doc=https%3A%2F%2Fkartextiarc.github.io%2FVaxholm%2Fgallery.html)
-- Contact page - Pass - [Result] (https://validator.w3.org/nu/?doc=https%3A%2F%2Fkartextiarc.github.io%2FVaxholm%2Fcontact.html)
+- Home page - Pass - [Result](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkartextiarc.github.io%2FVaxholm%2Findex.html)
+- Acitivty page - Pass - [Result](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkartextiarc.github.io%2FVaxholm%2Factivity.html)
+- Gallery page - Pass - [Result](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkartextiarc.github.io%2FVaxholm%2Fgallery.html)
+- Contact page - Pass - [Result](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkartextiarc.github.io%2FVaxholm%2Fcontact.html)
 
 ### Compatibility Testing
 
